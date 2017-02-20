@@ -1,0 +1,61 @@
+.active{
+  color:#85d290;
+  border:2px solid #85d290;
+  border-radius: 5px;
+  padding:2px;
+}
+div#app{
+  position: relative;
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+  border:5px solid #85d290;
+  border-radius: 15px;
+  color:#85d290;
+  padding-bottom:100px;
+
+}
+h1.main,div.result{
+  text-align: center;
+  color:#85d290;
+}
+ul.nav{
+  list-style: none;
+  text-transform: uppercase;
+  color:black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-weight: bold;
+}
+div.costs{
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  text-align: center;
+}
+ul.costs{
+  list-style: none;
+  font-size: 20px;
+  width:150px;
+}
+div.list{
+  text-align: center;
+}
+div.list input,button,input#balance{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20px;
+  font-size: 20px;
+  border:2px solid #85d290;
+  border-radius: 5px;
+  color:#85d290;
+}
+span{
+  font-size: 20px;
+}
+div.result{
+
+}
